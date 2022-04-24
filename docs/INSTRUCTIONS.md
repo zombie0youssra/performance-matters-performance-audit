@@ -32,9 +32,9 @@ Deze opdracht gaat over de [analyse](#analyseren) fase van de DLC.
 
 #### Materiaal analysefase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Metrics - Measuring performance and user experience](https://web.dev/metrics/)
+- [Web Performance](https://developer.mozilla.org/en-US/docs/Web/Performance)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 </details>
 
