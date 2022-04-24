@@ -27,9 +27,16 @@ Deze opdracht gaat over de [test](#testen) fase van de DLC.
 <summary>Aanpak</summary>
 
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Open Dev Tools in Google Chrome en run een Lighthouse Performance Audit
+2. Analyseer de 6 metrics
+    - First Contentful Paint (FCP)
+    - Largest Contentful Paint (LCP)
+    - First Input Delay (FID)
+    - Time to Interactive (TTI)
+    - Total Blocking Time (TBT)
+    - Cumulative Layout Shift (CLS)
+3. Bekijk weke _Opportunities_ en _Diagnostics_ zijn gevonden 
+4. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score ond er de 90 is
 
 #### Materiaal analysefase
 
