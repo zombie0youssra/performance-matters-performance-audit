@@ -52,7 +52,7 @@ P: Je analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossi
 
 Deze opdracht is done als:
 
-- [ ] Er is een Performance Audot van een bestaande website gedaan
+- [ ] Er is met Lighthouse een Performance Audit van een bestaande website gedaan
 - [ ] djbdf
 - [ ] Het onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
 
