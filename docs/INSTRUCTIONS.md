@@ -55,7 +55,7 @@ Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten we
 
 Deze leertaak hoort bij het gedragscriterium:
 
-P: Je analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossingsrichting.
+P: Je analyseert een vraag, signaleert knelpunten ~~en volgt de aangeboden oplossingsrichting~~.
 
 Deze opdracht is done als:
 
