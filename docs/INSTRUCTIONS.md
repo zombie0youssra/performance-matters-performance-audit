@@ -7,6 +7,7 @@ Leren hoe je een Performance Audit doet en documenteert.
 
 Deze leertaak hoort bij sprint 10 Performance Matters. Dit is een deeltaak die je individueel uitvoert.
 
+In het college S10W1-01-Kickoff-Performance-Matters wordt behandeld wat Performance is en hoe je een Performance Audit doet.
 
 ## Doel van deze opdracht
 
@@ -18,25 +19,29 @@ In deze opdracht ga je leren een Performance Audit te doen met Lighthouse, een o
 
 ## Werkwijze
 
-Deze opdracht gaat over de [test](#testen) fase van de DLC.
+Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse om de Audit te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
 
-### Testen
+![image](https://user-images.githubusercontent.com/1391509/164995178-253d9639-3950-44ce-a765-914a4b95a945.png)
+
+Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
+
+### Analyse
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 <details>
 <summary>Aanpak</summary>
 
 
-1. Open Dev Tools in Google Chrome en run een Lighthouse Performance Audit
-2. Analyseer de 6 metrics
+1. Open Dev Tools in Google Chrome en run een Lighthouse Performance Audit.
+2. Analyseer de Metrics:
     - First Contentful Paint (FCP)
     - Largest Contentful Paint (LCP)
     - First Input Delay (FID)
     - Time to Interactive (TTI)
     - Total Blocking Time (TBT)
     - Cumulative Layout Shift (CLS)
-3. Bekijk weke _Opportunities_ en _Diagnostics_ zijn gevonden 
-4. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score ond er de 90 is
+3. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
+4. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is.
 
 #### Materiaal analysefase
 
@@ -60,5 +65,5 @@ P: Je analyseert een vraag, signaleert knelpunten ~~en volgt de aangeboden oplos
 Deze opdracht is done als:
 
 - [ ] Er is met Lighthouse een Performance Audit van een bestaande website gedaan
-- [ ] Het onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
+- [ ] Het onderzoek is gedocumenteerd in de Readme van de leertaak
 
