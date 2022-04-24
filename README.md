@@ -3,26 +3,35 @@
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## ContentAudit
+Beschrijf de website die je hebt geanalyseerd + de datum. Voeg de url en een screenshot toe. 
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+### First Contentful Paint (FCP)
+_Beschrijf de uitslag van de FCP van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
 
-## Installatie
 
-## Gebruik
+### Largest Contentful Paint (LCP)
+_Beschrijf de uitslag van de LCP van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+
+
+### First Input Delay (FID)
+_Beschrijf de uitslag van de FID van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+
+
+### Time to Interactive (TTI)
+_Beschrijf de uitslag van de TTI van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+
+
+### Total Blocking Time (TBT)
+_Beschrijf de uitslag van de TBT van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+
+
+### Cumulative Layout Shift (CLS)
+_Beschrijf de uitslag van de CLS van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+
+
 
 ## Bronnen
 
