@@ -5,31 +5,31 @@
 
 
 ## ContentAudit
-Beschrijf de website die je hebt geanalyseerd + de datum. Voeg de url en een screenshot toe. 
+Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
 
 
 ### First Contentful Paint (FCP)
-_Beschrijf de uitslag van de FCP van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de FCP van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 ### Largest Contentful Paint (LCP)
-_Beschrijf de uitslag van de LCP van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de LCP van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 ### First Input Delay (FID)
-_Beschrijf de uitslag van de FID van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de FID van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 ### Time to Interactive (TTI)
-_Beschrijf de uitslag van de TTI van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de TTI van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 ### Total Blocking Time (TBT)
-_Beschrijf de uitslag van de TBT van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de TBT van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 ### Cumulative Layout Shift (CLS)
-_Beschrijf de uitslag van de CLS van de test. BEschrijf wat =kan worden verbeterd als de score minder dan 90 is._
+_Beschrijf de uitslag van de CLS van de test. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 
