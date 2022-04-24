@@ -18,13 +18,14 @@ In deze opdracht ga je leren een Performance Audit te doen met Lighthouse, een o
 
 ## Werkwijze
 
-Deze opdracht gaat over de [analyse](#analyseren) fase van de DLC.
+Deze opdracht gaat over de [test](#testen) fase van de DLC.
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 <details>
 <summary>Aanpak</summary>
+
 
 1. {geef de stappen}
 2. {die in deze fase}
