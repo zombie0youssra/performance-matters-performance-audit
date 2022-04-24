@@ -21,7 +21,8 @@ In deze opdracht ga je leren een Performance Audit te doen met Lighthouse, een o
 
 Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse om de Audit te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
 
-![image](https://user-images.githubusercontent.com/1391509/164995178-253d9639-3950-44ce-a765-914a4b95a945.png)
+<img width="1391" alt="image" src="https://user-images.githubusercontent.com/1391509/164996927-0f91670e-323c-4be2-8981-2bb95bf910b9.png">
+
 
 Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
 
