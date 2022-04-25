@@ -38,6 +38,7 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
     - Disable Cache
     - Network Throttle 3G
 3. Run de Lighthouse Performance Audit
+    - Klik _Generate Report_
 4. Analyseer de Metrics:
     - First Contentful Paint (FCP)
     - Largest Contentful Paint (LCP)
