@@ -32,11 +32,11 @@ Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
 <details>
 <summary>Aanpak</summary>
 
-
-1. Open Dev Tools in Google Chrome en run een Lighthouse Performance Audit.
+1. Open Dev Tools in Google Chrome
 2. Zet in de Network tab van de Dev Tools de chache uit en pas de netwerk snelheid aan:
     - Disable Cache
     - Network Throttle 3G
+3. Run de Lighthouse Performance Audit
 4. Analyseer de Metrics:
     - First Contentful Paint (FCP)
     - Largest Contentful Paint (LCP)
