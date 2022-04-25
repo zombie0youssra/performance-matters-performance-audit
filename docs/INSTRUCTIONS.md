@@ -41,10 +41,10 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
     - Klik _Generate Report_
 4. Analyseer de Metrics:
     - First Contentful Paint (FCP)
-    - Largest Contentful Paint (LCP)
-    - First Input Delay (FID)
     - Time to Interactive (TTI)
+    - Speed Index (SI)
     - Total Blocking Time (TBT)
+    - Largest Contentful Paint (LCP)
     - Cumulative Layout Shift (CLS)
 5. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
 6. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
