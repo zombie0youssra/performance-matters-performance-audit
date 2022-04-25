@@ -27,7 +27,8 @@ Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse
 Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
 
 ### Analyse
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaande website om een Performance Audit te doen. Het is interessant om een website te analyseren die niet goed _performed_. Eerst doe je een audit en daarna ge je bekijken hoe de performance zou kunnen worden verbeterd. Na de analyse documenteer je je bevindingen in de Readme. 
 
 <details>
 <summary>Aanpak</summary>
