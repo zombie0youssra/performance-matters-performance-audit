@@ -7,19 +7,19 @@ Leren hoe je een Performance Audit doet en documenteert.
 
 Deze leertaak hoort bij sprint 10 Performance Matters. Dit is een deeltaak die je individueel uitvoert.
 
-In het college S10W1-01-Kickoff-Performance-Matters wordt behandeld wat Performance is en hoe je een Performance Audit doet.
+In het college S10W1-01-Kickoff-Performance-Matters wordt behandeld wat _performance_ is en hoe je een Performance Audit doet.
 
 ## Doel van deze opdracht
 
 Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). 
 
-Performance is daar een belangrijk onderdeel van. _Performance == Accessibility_ zegt Léonie Watson. 
+_Performance_ is daar een belangrijk onderdeel van. _Performance == Accessibility_ zegt Léonie Watson. 
 
 In deze opdracht ga je leren een Performance Audit te doen met Lighthouse, een open-source tool om websites te testen en verbeteren. 
 
 ## Werkwijze
 
-Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse om de Audit te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
+Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse om de audit (test/beoordeling) te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
 
 <img width="1391" alt="image" src="https://user-images.githubusercontent.com/1391509/164996927-0f91670e-323c-4be2-8981-2bb95bf910b9.png">
 
@@ -42,7 +42,7 @@ Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
     - Total Blocking Time (TBT)
     - Cumulative Layout Shift (CLS)
 3. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
-4. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is.
+4. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
 
 #### Materiaal analysefase
 
