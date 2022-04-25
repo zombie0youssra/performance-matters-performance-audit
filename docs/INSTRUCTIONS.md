@@ -46,8 +46,10 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
     - Total Blocking Time (TBT)
     - Largest Contentful Paint (LCP)
     - Cumulative Layout Shift (CLS)
-5. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
-6. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
+5. Lees per metrics wat het precies is, wat het meet en hoe je het zou kunnen verbeteren. 
+    - Kik _Learn more_ in de Lighthouse rapprt bij de Metrics.
+6. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
+7. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
 
 #### Materiaal analysefase
 
