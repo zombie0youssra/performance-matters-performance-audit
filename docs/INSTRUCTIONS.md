@@ -15,13 +15,11 @@ In het college S10W1-01-Kickoff-Performance-Matters wordt behandeld wat _perform
 
 _Performance_ is daar een belangrijk onderdeel van. _Performance == Accessibility_ zegt Léonie Watson. 
 
-In deze opdracht ga je leren een Performance Audit te doen met Lighthouse, een open-source tool om websites te testen en verbeteren. 
+In deze opdracht ga je leren een Performance Audit te doen met PageSpeed Insights, een open-source tool om websites te testen en verbeteren. 
 
 ## Werkwijze
 
-Opdracht: Doe een Performance Audit op een bestaande website. Gebruik Lighthouse om de audit (test/beoordeling) te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
-
-<img width="1391" alt="image" src="https://user-images.githubusercontent.com/1391509/164996927-0f91670e-323c-4be2-8981-2bb95bf910b9.png">
+Opdracht: Doe een Performance Audit op een bestaande website. Gebruik PageSpeed Insights om de audit (test/beoordeling) te doen en documenteer de bevindingen en wat zou kunnen worden verbeterd. 
 
 
 Deze opdracht gaat over de [analyse](#analyse) fase van de DLC.
@@ -37,8 +35,8 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
 2. Zet in de Network tab van de Dev Tools de chache uit en pas de netwerk snelheid aan:
     - Disable Cache
     - Network Throttle 3G
-3. Run de Lighthouse Performance Audit
-    - Klik _Generate Report_
+3. Run de PageSpeed Insights  Performance Audit
+    - Vul de url in en klik op Analyze
 4. Analyseer de Metrics:
     - First Contentful Paint (FCP)
     - Time to Interactive (TTI)
@@ -47,15 +45,16 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
     - Largest Contentful Paint (LCP)
     - Cumulative Layout Shift (CLS)
 5. Lees per metrics wat het precies is, wat het meet en hoe je het zou kunnen verbeteren. 
-    - Kik _Learn more_ in de Lighthouse rapprt bij de Metrics.
+    - Kik _Learn more_ in de PageSpeed Insights  rapprt bij de Metrics.
 6. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
 7. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
 
 #### Materiaal analysefase
 
+- [PageSpeed Insights](https://pagespeed.web.dev)
 - [Metrics - Measuring performance and user experience](https://web.dev/metrics/)
 - [Web Performance](https://developer.mozilla.org/en-US/docs/Web/Performance)
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
 
 </details>
 
