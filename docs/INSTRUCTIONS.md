@@ -34,17 +34,17 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
 
 1. Ga naar [PageSpeed Insights](https://pagespeed.web.dev)
 2. Vul de url in van de website waarvan je de performance wil testen en klik op _Analyze_
-3. Analyseer de Metrics:
+3. Analyseer deze Metrics:
+    - Largest Contentful Paint (LCP)
+    - Cumulative Layout Shift (CLS)
     - First Contentful Paint (FCP)
     - Time to Interactive (TTI)
     - Speed Index (SI)
     - Total Blocking Time (TBT)
-    - Largest Contentful Paint (LCP)
-    - Cumulative Layout Shift (CLS)
 4. Lees per metrics wat het precies is, wat het meet en hoe je het zou kunnen verbeteren. 
     - Kik _Learn more_ in de PageSpeed Insights  rapprt bij de Metrics.
 5. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden.
-6. Schrijf per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd als de score onder de 90 is. Of wat er goed gaat. 
+6. Documenteer per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd. 
 
 #### Bronnen analysefase
 
@@ -64,4 +64,3 @@ Deze opdracht is done als:
 
 - [ ] Er is met PageSpeed Insights een Performance Audit van een bestaande website gedaan
 - [ ] Het onderzoek is gedocumenteerd in de Readme van deze deeltaak
-
