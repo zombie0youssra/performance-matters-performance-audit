@@ -34,7 +34,7 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
 
 1. Ga naar [PageSpeed Insights](https://pagespeed.web.dev)
 2. Vul de url in van de website waarvan je de performance wil testen en klik op _Analyze_
-3. Kopieer als de analyse klaar is de link naar de resultaten van de analyse ('Copy link'-button rechtsbovenaan de pagina) en zet de link bij je documentatie in de Readme van de deeltaak
+3. Kopieer, als de analyse klaar is, de link naar de resultaten van de analyse ('Copy link'-button rechtsbovenaan de pagina) en vermeld de link bij je documentatie in de Readme van de deeltaak
 4. Analyseer deze Metrics:
     - Largest Contentful Paint (LCP)
     - Cumulative Layout Shift (CLS)
@@ -46,7 +46,6 @@ Voor deze opdracht doe je een analyse op een bestaande website. Kies een bestaan
     - Kik _Learn more_ in de PageSpeed Insights  rapprt bij de Metrics
 6. Bekijk welke _Opportunities_ en _Diagnostics_ zijn gevonden
 7. Documenteer per Metrics wat je hebt gevonden en hoe dit kan worden verbeterd
-8. 
 
 #### Bronnen analysefase
 
