@@ -5,11 +5,10 @@ Doe een Performance Audit op een bestaande website en documenteer je bevindingen
 
 ## Context
 
-Deze leertaak hoort bij sprint 10 Performance Matters. Dit is een leertaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 10 Performance Matters. Dit is een dedeltaak die je individueel uitvoert.
 
-In het college S10W1-01-Kickoff-Performance-Matters wordt behandeld wat _performance_ is en hoe je een Performance Audit doet.
+In het college S10W1-02-Frontend-Performance-Audit wordt behandeld wat _performance_ is en hoe je een Performance Audit doet.
 
-- [performance-matters-fast-website](https://github.com/fdnd-task/performance-matters-fast-website) 
 
 ## Doel van deze opdracht
 
